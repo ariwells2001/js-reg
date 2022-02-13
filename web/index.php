@@ -195,7 +195,7 @@ document.getElementById("info1").innerHTML=r.info();
 </script>
 
 </head>
-<h1><b>******* MACHINE LEARNING-REGRESSION *******</b></h1>
+<h1><b>******** MACHINE LEARNING-REGRESSION ********</b></h1>
 <h3>Please click Analysis button!!</h3>
 <form name="machinelearning" method="post">
   <input type="hidden"/>
