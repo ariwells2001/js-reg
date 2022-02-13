@@ -69,7 +69,7 @@ $var2 = json_encode($var2);
 <html>
 <head>
 
-        <title>LALOLab plot</title>
+        <title>aRi Wells ML-REGRESSION</title>
    
 
 <meta charset="UTF-8">
@@ -98,7 +98,7 @@ div.info {
 
 
 <head>
-
+<img src="ariwells-logo.png" alt="ML-Regression">
 <script>
 
 function myLALOLabScript() {
