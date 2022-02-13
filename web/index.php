@@ -98,7 +98,7 @@ div.info {
 
 
 <head>
-<img src="ariwells-logo.png" alt="ML-Regression">
+<img src="ariwells-logo.png" alt="ML-Regression" style="width:150px;height:150px;">
 <script>
 
 function myLALOLabScript() {
